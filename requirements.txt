@@ -1,7 +1,6 @@
 numpy
 pandas
 opencv-python-headless
-matplotlib
 pillow
 streamlit
-tensorflow
+tensorflow-cpu
